@@ -6,8 +6,8 @@
 
 ```bash
 Required customers to sign multiple documents to acknowledge proof of delivery. It needed to group
-these fulfillments into a single document in order to improve the efficiency of the fulfillment process
-and reduce the risk of losing the confirmation slip.
+these fulfillments into a single document in order to improve the efficiency of the fulfillment
+process and reduce the risk of losing the confirmation slip.
 
 - Only item fulfillment records with similar shipping addresses can be merged.
 - The item fulfillment records that are grouped together into a single printed document
