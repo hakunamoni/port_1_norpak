@@ -15,13 +15,13 @@ need to be logged in NetSuite. (This can be done using a variety of methods, mul
 field, custom record, etc).
 - The user needs to be able to print the single printed document multiple times.
   This requirement is intended to allow reprints in case the user loses the document.
-4. The single printed document needs to be given its own unique identification number.
-5. The single printed document needs to have all of the same features as the current packing slip
+- The single printed document needs to be given its own unique identification number.
+- The single printed document needs to have all of the same features as the current packing slip
 form used by Norpak.
-6. Each item from each fulfillment record needs to be listed with quantities from each customer
+- Each item from each fulfillment record needs to be listed with quantities from each customer
 sales order specified.
-  a. e.g. 10 widgets from Sales Order 10X, 12 widgets from Sales Order 9B
-7. User needs to be able to create a merged fulfillment document from (a) the fulfillment record
+  e.g. 10 widgets from Sales Order 10X, 12 widgets from Sales Order 9B
+- User needs to be able to create a merged fulfillment document from (a) the fulfillment record
 as well as (b) a standalone application found on the main menu. With option a, the current record
 should be sourced as a parameter.
 
